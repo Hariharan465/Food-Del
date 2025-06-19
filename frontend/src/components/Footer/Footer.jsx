@@ -10,17 +10,17 @@ const Footer = () => {
           <img src={assets.logo} alt="" />
           <p>
             {" "}
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-            nemo aliquid facilis eligendi error cupiditate beatae earum animi
-            eum blanditiis iusto dolores est, quod ipsam magni, temporibus, aut
-            dolor! Ratione quos quidem, eveniet expedita ullam enim facere porro
-            dignissimos unde!
+            At Tomato, we’re not just another food delivery app—we're your go-to
+            food companion, built to satisfy your cravings with a tap. Whether
+            you're chillin’ at home, grinding through work, or binge-watching
+            your favorite shows, we make sure your next meal is just minutes
+            away.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
             <a href="https://linkedin.com/in/hariharan-venkatesan-2650a5254">
-            <img src={assets.linkedin_icon} alt="" />
+              <img src={assets.linkedin_icon} alt="" />
             </a>
           </div>
         </div>
