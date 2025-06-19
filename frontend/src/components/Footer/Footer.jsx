@@ -19,7 +19,9 @@ const Footer = () => {
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
+            <a href="https://linkedin.com/in/hariharan-venkatesan-2650a5254">
             <img src={assets.linkedin_icon} alt="" />
+            </a>
           </div>
         </div>
         <div className="footer-content-center">
@@ -34,14 +36,14 @@ const Footer = () => {
         <div className="footer-content-right">
           <h2>GET IN TOUCH</h2>
           <ul>
-            <li>+91-944-230-2456</li>
+            <li>+91-944-230-2465</li>
             <li>contact@tomato.com</li>
           </ul>
         </div>
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2024 © Tomato.com - All Right Reserved.
+        Copyright 2025 © Hariharan | Tomato.com - All Right Reserved.
       </p>
     </div>
   );
