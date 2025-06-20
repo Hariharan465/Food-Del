@@ -33,8 +33,3 @@ app.get('/' , (req , res) => {
 app.listen(PORT , () => {
     console.log(`Server started on http://localhost:${PORT}`);
 })
-
-
-// mongodb+srv://Hariharan:admin@cluster0.hegdbkb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-//Pubilc Key //pk_test_51RbGHmFNQMpTWUXYbOlr0Q38xDbtEKpMgFYIiy46iMcV7RofZ7xFyvtVfRqO3EF7vQ57rdezAYIEDObjp91yQ01S00WWODH2wF
